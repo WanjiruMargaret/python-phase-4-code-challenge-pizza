@@ -14,7 +14,7 @@ Depending on your preference, you can either check your API by:
 
 - Using Postman to make requests
 - Running `pytest -x` and seeing if your code passes the tests
-- Running the React application in the browser and interacting with the API via
+- Running the React application in the browser and interacting with the API q
   the frontend
 
 You can import `challenge-1-pizzas.postman_collection.json` into Postman by
@@ -179,7 +179,7 @@ the appropriate HTTP status code:
 ```json
 {
   "error": "Restaurant not found"
-}
+}0
 ```
 
 #### DELETE /restaurants/<int:id>
